@@ -1,0 +1,1 @@
+firebase deploy --project project3-noahpauljj-project3-noahpauljj-billcounter
